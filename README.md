@@ -9,8 +9,7 @@ Bu proje, bir kütüphane için kitapların ve üyelerin takibini sağlayan basi
 - Kitap ve üye listesi görüntüleme
 
 ## Kullanılan Teknolojiler
-- C#
-- Windows Forms / Console uygulaması (kullandığınız platforma göre belirtin)
+- python
 - SQL Server / SQLite (veritabanı kullanıldıysa belirtin)
 
 ## Kurulum ve Çalıştırma
