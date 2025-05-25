@@ -25,7 +25,7 @@ Kod ekranı:
 ![Kod Ekranı](kod-ekranı.png)
 
 Çalışmış hali:  
-![Çalışmış Hali](çalışmıs-hali.png)
+![Çalışmış Hali](çalışmış-hali.png)
 
 ---
 
