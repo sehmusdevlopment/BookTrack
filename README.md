@@ -1,30 +1,37 @@
-# Kitaplık Takipçisi
+# Kütüphane Takip Sistemi
 
-**Kitaplık Takipçisi**, Python öğrenme aşamasında olanlar için geliştirilmiş, kişisel kitap koleksiyonunuzu yönetmenizi sağlayan basit ve kullanışlı bir konsol uygulamasıdır. Kitap ekleme, listeleme, arama ve silme işlemlerini kolayca yapabilirsiniz. Veriler dosyada saklandığı için bilgiler program kapansa bile kaybolmaz.
-
----
+Bu proje, bir kütüphane için kitapların ve üyelerin takibini sağlayan basit bir sistemdir. Kullanıcılar kitap ekleyebilir, güncelleyebilir, silebilir ve mevcut kitapları listeleyebilirler. Ayrıca üyelerin bilgileri yönetilebilir.
 
 ## Özellikler
+- Kitap ekleme, silme, güncelleme
+- Üye kayıt ve yönetimi
+- Kitap ödünç alma ve iade işlemleri
+- Kitap ve üye listesi görüntüleme
 
-- Kitap ekleme (kitap adı, yazar, yayınevi)
-- Kitap listesini görüntüleme
-- Kitap adı veya yazar ismine göre arama
-- Kitap silme
-- Dosyaya veri kaydetme ve dosyadan okuma (kalıcı veri saklama)
+## Kullanılan Teknolojiler
+- C#
+- Windows Forms / Console uygulaması (kullandığınız platforma göre belirtin)
+- SQL Server / SQLite (veritabanı kullanıldıysa belirtin)
+
+## Kurulum ve Çalıştırma
+1. Depoyu klonlayın veya indirin.
+2. Gerekli bağımlılıkları yükleyin.
+3. Projeyi Visual Studio ile açın.
+4. Programı çalıştırın.
+
+## Ekran Görüntüleri
+
+Kod ekranı:  
+![Kod Ekranı](kod-ekranı.png)
+
+Çalışmış hali:  
+![Çalışmış Hali](çalışmıs-hali.png)
 
 ---
 
-## Gereksinimler
-
-- Python 3.x
+## İletişim
+Herhangi bir soru veya öneri için iletişime geçebilirsiniz.
 
 ---
 
-## Kullanım
-
-1. `kutuphane.py`, `kod-ekranı.png` ve `çalışmış-hali.png` dosyalarını aynı klasöre koyun.
-2. Terminal/Komut İstemi'ni açıp o klasöre gidin.
-3. Programı başlatmak için:
-
-   ```bash
-   python kutuphane.py
+**Not:** Bu proje kişisel kullanım veya eğitim amaçlı geliştirilmiştir.
